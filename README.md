@@ -11,7 +11,7 @@ The project is organized into two primary domains:
 ### 1. [SOLID](./SOLID)
 Focuses on the five core principles of Object-Oriented Design that prevent code from becoming rigid and fragile.
 * **Problematic:** Real-world "Code Smells" where logic is tangled or hard to extend.
-* **Bad Code:** A "dirty" implementation that violates the specific principle.
+* **bad.Bad Code:** A "dirty" implementation that violates the specific principle.
 * **Solution:** Refactored code demonstrating how the principle cleans up the architecture.
 
 ### 2. [Design Patterns (DP)](./DP)
