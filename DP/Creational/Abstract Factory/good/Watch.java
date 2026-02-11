@@ -1,0 +1,3 @@
+interface Watch {
+    void trackSteps();
+}
